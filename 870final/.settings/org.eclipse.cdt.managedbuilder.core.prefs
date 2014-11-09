@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+environment/buildEnvironmentInclude/cdt.managedbuild.config.gnu.cross.exe.debug.156229258/CPATH/delimiter=\:
+environment/buildEnvironmentInclude/cdt.managedbuild.config.gnu.cross.exe.debug.156229258/CPATH/operation=replace
+environment/buildEnvironmentInclude/cdt.managedbuild.config.gnu.cross.exe.debug.156229258/CPATH/value=\:/group/dpa/local/openvdb/include\:/group/dpa/local/openvdb/python/include/python2.7\:/group/dpa/local/MeshPotato/include\:/home/chaorel/projects/usr/local/include\:/home/chaorel/projects/OpenVDB/include\:/home/chaorel/projects/tbb/include
+environment/buildEnvironmentInclude/cdt.managedbuild.config.gnu.cross.exe.debug.156229258/CPLUS_INCLUDE_PATH/delimiter=\:
+environment/buildEnvironmentInclude/cdt.managedbuild.config.gnu.cross.exe.debug.156229258/CPLUS_INCLUDE_PATH/operation=remove
+environment/buildEnvironmentInclude/cdt.managedbuild.config.gnu.cross.exe.debug.156229258/C_INCLUDE_PATH/delimiter=\:
+environment/buildEnvironmentInclude/cdt.managedbuild.config.gnu.cross.exe.debug.156229258/C_INCLUDE_PATH/operation=remove
+environment/buildEnvironmentInclude/cdt.managedbuild.config.gnu.cross.exe.debug.156229258/append=true
+environment/buildEnvironmentInclude/cdt.managedbuild.config.gnu.cross.exe.debug.156229258/appendContributed=true
+environment/buildEnvironmentLibrary/cdt.managedbuild.config.gnu.cross.exe.debug.156229258/LIBRARY_PATH/delimiter=\:
+environment/buildEnvironmentLibrary/cdt.managedbuild.config.gnu.cross.exe.debug.156229258/LIBRARY_PATH/operation=replace
+environment/buildEnvironmentLibrary/cdt.managedbuild.config.gnu.cross.exe.debug.156229258/LIBRARY_PATH/value=\:/home/chaorel/projects/usr/local/lib
+environment/buildEnvironmentLibrary/cdt.managedbuild.config.gnu.cross.exe.debug.156229258/append=true
+environment/buildEnvironmentLibrary/cdt.managedbuild.config.gnu.cross.exe.debug.156229258/appendContributed=true
